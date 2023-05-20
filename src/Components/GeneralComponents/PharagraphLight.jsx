@@ -1,0 +1,1 @@
+export const PharagraphLight = (prop) => <p className="lightLetter">{prop.text}</p>

@@ -1,0 +1,1 @@
+export const ServicePharagraphBold = (prop) => <p className="service-boldLetter">{prop.text}</p>

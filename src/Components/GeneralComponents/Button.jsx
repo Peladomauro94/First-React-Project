@@ -1,0 +1,1 @@
+export const Button = (prop) => <button type="submit" className={prop.type}>{prop.buttonText}</button>

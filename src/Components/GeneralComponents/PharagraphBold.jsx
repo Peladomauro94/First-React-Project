@@ -1,0 +1,1 @@
+export const PharagraphBold = (prop) => <p className="boldLetter">{prop.text}</p>

@@ -1,0 +1,1 @@
+export const Images = (prop) => <img src={prop.image} alt="" />
